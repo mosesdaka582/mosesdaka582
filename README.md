@@ -40,9 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mosesdaka582&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mosesdaka582&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosesdaka582&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph">

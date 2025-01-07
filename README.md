@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+a+Full+Stack+Developer;And+AI+Developer&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+a+Full+Stack+Developer;And+AI+Developer;Welcome+to+My+Profile!&center=true&size=30">
 </h1>
 
 ## 👨‍💻 About Me
@@ -23,6 +23,8 @@ me = Developer()
 me.say_hi()
 ```
 
+---
+
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -34,7 +36,11 @@ me.say_hi()
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -47,12 +53,22 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mosesdaka582&theme=rogue" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosesdaka582&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph">
 </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mosesdaka582&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
+
+---
+
+## 🎵 Fun Animation
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Let's+build+something+amazing!;AI+enthusiast+and+problem+solver!" alt="Typing SVG">
+</p>
+
+---
 
 ## 🤝 Let's Connect!
 
@@ -63,4 +79,11 @@ me.say_hi()
   <a href="https://twitter.com/mosesdaka582" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
+  <a href="mailto:dakamoses25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
+---
+
+⭐️ *Thanks for visiting! Let's connect and innovate together!* 🚀

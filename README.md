@@ -13,7 +13,7 @@
 python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "MOSES DAKA"
         self.role = "Full Stack & AI Developer"
         self.languages = ["PHP", "Java", "JavaScript", 
                          "Python", "HTML", "CSS", "SASS"]
@@ -54,7 +54,7 @@ me.say_hi()
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=rogue" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mosesdaka582&theme=rogue" alt="Contribution Graph" />
 </p>
 
 <!-- Profile Views Counter -->

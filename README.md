@@ -6,22 +6,11 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "MOSES DAKA"
-        self.role = "Full Stack & AI Developer"
-        self.languages = ["PHP", "Java", "JavaScript", 
-                         "Python", "HTML", "CSS", "SASS"]
-        self.ai_stack = ["Machine Learning", "Deep Learning"]
-        self.current_focus = "Building intelligent web applications"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = Developer()
-me.say_hi()
-```
+- 👋 Hi, I’m **MOSES DAKA**
+- 💻 **Full Stack & AI Developer** with expertise in building intelligent web applications.
+- 🌱 Currently focused on **Machine Learning** and **Deep Learning** projects.
+- 🚀 Passionate about solving complex problems with innovative solutions.
+- 🎯 Let's collaborate and create something **amazing**!
 
 ---
 
@@ -31,7 +20,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
@@ -49,7 +37,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesdaka582&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mosesdaka582&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
 <p align="center">
@@ -79,7 +67,7 @@ me.say_hi()
   <a href="https://twitter.com/mosesdaka582" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:dakamoses25@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

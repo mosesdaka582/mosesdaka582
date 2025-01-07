@@ -74,7 +74,7 @@ I'm **MOSES DAKA**, a passionate developer working at the intersection of web de
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
   <a href="https://linkedin.com/in/moses-daka" target="_blank">
-    <img src="https://www.linkedin.com/in/moses-daka-199460259/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin.com/in/moses-daka-199460259/" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/mosesdaka582" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">

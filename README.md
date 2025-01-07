@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-```python
+python
 class Developer:
     def __init__(self):
         self.name = "Your Name"
@@ -25,7 +25,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-```
+
 
 <!-- Skills Animation -->
 <h2> 🚀 Tech Stack </h2>

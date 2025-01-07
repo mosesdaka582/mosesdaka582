@@ -1,8 +1,11 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right">
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+a+Full+Stack+Developer;And+AI+Developer;Welcome+to+My+Profile!&center=true&size=30">
 </h1>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" align="right">
-
 
 ## 👨‍💻 About Me
 
